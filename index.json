@@ -1,18 +1,20 @@
-{
-  "name": "SideStore",
-  "bundleIdentifier": "com.SideStore.SideStore.A6HDN4Z6ABT0601",
-  "developerName": "SideStore Team",
-  "version": "1.0.0",
-  "subtitle": "Wireless sideloading for iOS",
-  "localizedDescription": "SideStore allows you to wirelessly sideload apps using your own Apple ID.",
-  "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/main/assets/icon.png",
-  "tintColor": "0091FF",
-  "size": 34820000,
-  "appURL": "https://github.com/SideStore/SideStore/releases/latest/download/SideStore.ipa",
-  "screenshotURLs": [
-    "https://raw.githubusercontent.com/SideStore/SideStore/main/assets/screenshot1.png"
-  ],
-  "supportedDevices": ["iPhone", "iPad"],
-  "minOSVersion": "14.0",
-  "liveId": "com.SideStore.SideStore.A6HDN4Z6ABT0601"
-}
+[
+  {
+    "name": "LiveContainer",
+    "bundleIdentifier": "com.SideStore.SideStore.A6HDN4Z6ABT0601",
+    "developerName": "LiveContainer Team",
+    "version": "1.0.0",
+    "subtitle": "LiveContainer for SideStore",
+    "localizedDescription": "LiveContainer to rozszerzenie SideStore umożliwiające dodatkowe funkcje.",
+    "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/main/assets/icon.png",
+    "tintColor": "0091FF",
+    "size": 12345678,
+    "appURL": "https://github.com/LiveContainer/LiveContainer/releases/latest/download/LiveContainer.ipa",
+    "screenshotURLs": [
+      "https://raw.githubusercontent.com/SideStore/SideStore/main/assets/screenshot1.png"
+    ],
+    "supportedDevices": ["iPhone", "iPad"],
+    "minOSVersion": "14.0",
+    "liveId": "com.SideStore.SideStore.A6HDN4Z6ABT0601"
+  }
+]
